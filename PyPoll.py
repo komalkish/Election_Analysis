@@ -55,6 +55,6 @@ winning_candidate_summary =  (
     f"Winning Percentage: {winnning_percentage:.1f}%\n"
     f"-------------------------\n")
 #print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
-#print(winning_candidate_summary)
-    candidate_votes[candidate_name] +=1
-with open(file_to_save, "w") as txt_file:
+print(winning_candidate_summary)
+    #candidate_votes[candidate_name] +=1
+#with open(file_to_save, "w") as txt_file:
