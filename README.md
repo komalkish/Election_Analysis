@@ -1,7 +1,7 @@
 # Election_Analysis
-## Overview of Election Audit
+# Overview of Election Audit
 
-# Project Overview
+## Project Overview
 A colorado Board of Elections employee has given the following tasks to complete the election audit of a recent congressional election.
 * Total number of votes cast
 * A complete list of candidates who received votes
